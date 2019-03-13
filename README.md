@@ -13,6 +13,7 @@
 * [Enumerable](https://ruby-doc.org/core-2.5.3/Enumerable.html)
 * [Integer](https://ruby-doc.org/core-2.5.3/Integer.html)
 * [Regex](https://ruby-doc.org/core-2.5.3/Regexp.html)
+* [Rubular](https://rubular.com)
 
 ## RSpec Help
 
