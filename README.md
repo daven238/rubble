@@ -16,6 +16,7 @@
 ### Ruby Regex
 * [Regex](https://ruby-doc.org/core-2.5.3/Regexp.html)
 * [Rubular](https://rubular.com)
+* [StrScan](https://ruby-doc.org/stdlib-2.5.3/libdoc/strscan/rdoc/index.html)
 
 ## RSpec Help
 
